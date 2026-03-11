@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "../public/script",
+    "target": "esnext",
+    "module": "ES6",
+    "strict": true,
+    }
+}
